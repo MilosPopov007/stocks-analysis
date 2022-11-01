@@ -8,6 +8,7 @@ Analyzing stocks data using VBA
 ![This is an image](https://github.com/MilosPopov007/stocks-analysis/blob/main/AllStockAnalysis_2017_Refactored.png)
 ![This is an image](https://github.com/MilosPopov007/stocks-analysis/blob/main/AllStockAnalysis_2018.png)
 ![This is an image](https://github.com/MilosPopov007/stocks-analysis/blob/main/AllStockAnalysis_2018_Refactored.png)
+* [VBA CODE-Refactored](https://github.com/MilosPopov007/stocks-analysis/blob/main/VBA_Challenge_Refactored_CODE.txt)
 
 
 ### Summary
