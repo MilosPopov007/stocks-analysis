@@ -14,4 +14,4 @@ Analyzing stocks data using VBA
 ### Summary
 * Refactoring is a key part of the coding process.When refactoring code, we want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.However, since refactoring does not tamper with the functionality of the application, you cannot add new features. It also requires robust skillsets to simplify the code, as the process is often complex. [^1]
 [^1]: https://modlogix.com/blog/legacy-code-refactoring-tips-steps-and-best-practices/
-* In our refactored code we wanted to break down the process to be more efficient and logical when using for loops to process data. Disadvantages of our refactoring was that it takes time to apply changes to original script.Developing new bugs and defects was high while refactoring.
+* In our refactored code we wanted to break down the process to be more efficient and logical when using for loops to process data. Disadvantages of our refactoring was that it takes time to apply changes to original script. Developing new bugs and defects was high while refactoring.
